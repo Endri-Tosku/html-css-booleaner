@@ -1,0 +1,17 @@
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+header {
+    background-image: url(./pattern.png);
+    background-color: rgb(33, 173, 232);
+    height: 50%;
+    background-size: contain;
+    background-size: 51%;
+}
+
+.logo {
+    width: 33;
+    padding: 25px 0px 7px 3px;
+}
